@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Apple/Downloads/SignalsFromMars/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-82cbc7192bc9b1c33f43b52adb71a8af4e44709e.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/SignalsFromMars/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Apple/Downloads/SignalsFromMars/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-26619a34c65f0ae1d2a55b9262d7b1c155ed4bb8.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/SignalsFromMars/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/Apple/Downloads/SignalsFromMars/app/build/intermediates/pre-dexed/debug/classes-6cd14e8ff48ffb2a163f209e1d56d3bc07c47124.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/SignalsFromMars/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Apple/Downloads/SignalsFromMars/app/build/intermediates/pre-dexed/debug/classes-0db7318311e20118c50272f6363bef0e5d54214e.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/SignalsFromMars/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Apple/Downloads/SignalsFromMars/app/build/intermediates/pre-dexed/debug/classes-c508d4beb228c0e7922f702981c326f540e4218e.jar" />
+    </item>
+
+</items>
